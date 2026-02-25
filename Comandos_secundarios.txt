@@ -1,1 +1,3 @@
 Esse arquivo contem comandos secundarios de git
+
+Comandos mais genéricos e estranho
